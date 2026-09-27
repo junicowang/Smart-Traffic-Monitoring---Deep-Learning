@@ -1,0 +1,3 @@
+Model,Role,Parameters,mAP50,mAP50-95,Precision,Recall,Inference (ms/img),Best Weights Path,Notes,Rank by mAP50-95
+YOLOv8s,Main model,11140631,0.8305,0.5766,0.827,0.7564,17.729,C:\Samuel\Kuliah\Semester 4\Deep Learning (DL)\Tugas\DL_FINAL\runs\detect\vehicle_detection\weights\best.pt,"Higher capacity, candidate utama jika akurasi prioritas.",1
+YOLOv8n,Comparison model,3013383,0.7507,0.523,0.7093,0.6957,8.21,C:\Samuel\Kuliah\Semester 4\Deep Learning (DL)\Tugas\DL_FINAL\runs\detect\vehicle_detection_yolov8n\weights\best.pt,"Lebih ringan & cepat, cocok untuk deployment terbatas.",2

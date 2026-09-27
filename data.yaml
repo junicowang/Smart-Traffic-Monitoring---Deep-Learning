@@ -1,0 +1,24 @@
+names:
+- Angkot
+- Becak
+- Bus Besar
+- Bus Sedang
+- Gerobag
+- Gerobak
+- Mobil
+- Motor
+- Pick Up
+- Plat
+- Sepeda
+- Truk Besar
+- Truk Sedang
+nc: 13
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-kendaraan
+  url: https://universe.roboflow.com/irfan-maulana/deteksi-kendaraan/dataset/5
+  version: 5
+  workspace: irfan-maulana
+test: test/images
+train: train/images
+val: valid/images

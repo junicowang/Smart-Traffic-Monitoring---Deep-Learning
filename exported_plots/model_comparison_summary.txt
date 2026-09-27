@@ -1,0 +1,10 @@
+
+=== Model Comparison Conclusion ===
+Best model by mAP50-95: YOLOv8s
+Best weights path:      C:\Samuel\Kuliah\Semester 4\Deep Learning (DL)\Tugas\DL_FINAL\runs\detect\vehicle_detection\weights\best.pt
+
+Interpretation:
+- YOLOv8s = lebih akurat, parameter lebih banyak.
+- YOLOv8n = lebih ringan & cepat inference, baseline untuk deployment edge/low-resource.
+- Untuk final presentation: pakai model dengan mAP50-95 tertinggi,
+  lalu jelaskan trade-off menggunakan precision, recall, inference speed, dan param count.
